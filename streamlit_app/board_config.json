@@ -1,0 +1,6 @@
+{
+    "BOARD_PATH": "/tmp/",
+    "BOARD_USER": "xilinx",
+    "BOARD_ADDRESS": "zcu104",
+    "BOARD_PORT": 12345
+}

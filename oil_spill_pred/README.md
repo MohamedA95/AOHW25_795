@@ -1,0 +1,1 @@
+This folder contains the predictions of model D2F16 for oil spill segmentation. Taken from onnx model for test purposes only.

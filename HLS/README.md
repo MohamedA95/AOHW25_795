@@ -1,0 +1,1 @@
+This folder contains the High-Level Synthesis (HLS) code for the 6 experiments described in the report.
