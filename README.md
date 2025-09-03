@@ -1,6 +1,6 @@
-## FPGA4Earth: Edge-Optimized Forest Segmentation and Radar Oil Spill Detection from Remote Sensing Imagery
-
 ## AMD Open Hardware Design Competition 2025: FPGA4Earth
+## Edge-Optimized Forest Segmentation and Radar Oil Spill Detection from Remote Sensing Imagery
+
 
 To run streamlit application, go to "streamlit_app" and run:
 ```
